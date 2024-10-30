@@ -1,0 +1,19 @@
+.add-card{
+    background-color:#c5c7c9;
+    padding:30px;
+    height:50vh;
+
+}
+.number{
+    background-color:#989a9c;
+    border-width:5px;
+    border-style:solid;
+    border-radius:5px;
+    padding:5px;
+    border-color:#77797a;
+
+}
+.para{
+    color:white;
+    padding:5px;
+}
